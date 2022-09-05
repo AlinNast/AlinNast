@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlinNast
 - 👀 I’m interested in Web Development and Game Development
-- 🌱 I’m currently learning Unity .Net and REACT
+- 🌱 I’m currently learning Unity, .Net, REACT and Next Js
 - 📫 How to reach me:
 https://www.linkedin.com/in/alin-nastasa/ 
 alin10nastasa@gmail.com
