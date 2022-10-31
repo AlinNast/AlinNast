@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @AlinNast
-- 👀 I’m interested in Web Development and Game Development
-- 🌱 I’m currently learning Unity, C# and Design
+- Im a passionate Game developer and Designer.
+- I currently know how to use Unity, Gimp, and Blender, which i am constantly learning
+- 
 - 📫 How to reach me:
 https://www.linkedin.com/in/alin-nastasa/ 
 alin10nastasa@gmail.com
+https://www.reddit.com/user/NastyTester
 
 <!---
 AlinNast/AlinNast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
