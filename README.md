@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Alin 
-#### Im a just a coder turned **AI** and **Game Dev**. I've transitioned from a solid background in full-stack web development to focusing on Artificial Neural Networks (ANNs) and Large Language Models (LLMs), all while crafting video games that I hope you'll love.
+#### Im a just a coder turned to **AI** and **Game Dev**. I've transitioned from a solid background in full-stack web development to focusing on Artificial Neural Networks (ANNs) and Large Language Models (LLMs), all while crafting video games that I hope you'll love.
 
 ### 🤖 My AI Skills:
  - Im working to create a **GPT Model** 🏗️
